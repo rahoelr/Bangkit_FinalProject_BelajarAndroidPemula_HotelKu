@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">HotelKu</string>
+
+    <string name="hotels_name">Nama Hotel</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="pesan_sekarang">Pesan Sekarang</string>
+    <string name="hotel_kendedes">Hotel Kendedes</string>
+    <string name="hotel_kendedess">Hotel Kendedes</string>
+
+    <string-array name="data_name">
+        <item>Yogyakarta Mariott Hotel</item>
+        <item>Hyatt Regency</item>
+        <item>Tentrem Hotel</item>
+        <item>Jambuluwuk Malioboro</item>
+        <item>Royal Ambarrukmo</item>
+        <item>Sheraton Mustika Resort Spa</item>
+        <item>The Phoenix Hotel</item>
+        <item>The Westlake Resort</item>
+        <item>Lafayette Boutique Hotel</item>
+        <item>Melia Purosani</item>
+        <item>Lafayette Boutique Hotel</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Kamar-kamar yang luas dengan fasilitas bintang 5 akan menyambut Sobat Pesona di Yogyakarta Marriott Hotel. Dengan berbagai pelayanan luar biasa, seperti fasilitas gym 24 jam, kolam renang indoor/outdoor serta spa yang menenangkan, setiap kamar di hotel ini menyajikan kemewahan dengan desain modern yang terinspirasi dari aksen budaya Jawa. Terletak di dekat Malioboro dan tidak terlalu jauh dari Situs Warisan Budaya UNESCO, seperti Candi Borobudur dan Candi Prambanan, hotel ini merupakan tempat yang menyenangkan untuk bermalam dan menikmati suasana yang nyaman di Yogyakarta.</item>
+        <item>Terletak di pinggir barat laut kota Yogya yang indah, Hyatt Regency Yogyakarta berdiri diatas lahan seluas 22 hektar dengan pemandangan taman hotel yang menakjubkan. Memiliki pusat rekreasi yang luas serta total 269 kamar dan suites mewah dengan pemandangan taman tropis dan kolam renang, Hyatt Regency Hotel merupakan tempat yang menenangkan untuk Sobat Pesona tinggali selama berada di Yogyakarta.</item>
+        <item>Tentrem merupakan istilah Jawa yang berarti kedamaian dan ketenangan. Damai dan tenang merupakan apa yang berusaha diwujudkan oleh Tentrem Hotel. Hotel ini memiliki 274 kamar dan suites yang mewah dan nyaman, dilengkapi dengan pelayanan yang luar biasa, desain interior indah yang mengkombinasikan elemen modern dengan sentuhan tradisional, Tentrem Hotel merupakan tempat yang nyaman untuk Sobat Pesona yang ingin menikmati keramahan Yogyakarta.</item>
+        <item>Penggemar wisata pasti setuju bahwa Jambuluwuk Malioboro Boutique Hotel merupakan tempat sempurna untuk menginap di Yogyakarta. Berlokasi hanya 10 menit berjalan kaki menuju jalan yang terkenal dan memikat di Yogyakarta, yaitu jalan Malioboro. Di sepanjang jalan ini Sobat Pesona akan menemukan pedagang kaki lima menjajakan berbagai pernak-pernik serta cinderamata tradisional sambil menikmati pertunjukan seni jalanan yang menghibur. Lokasi nya juga dekat sekali dari Keraton Yogyakarta.</item>
+        <item>Hotel bersejarah ini pernah menjadi Istana dan Taman Keraton Yogyakarta dan merupakan salah satu hotel mewah bintang 5 terbaik di kota Yogyakarta. Sebagai peraih berbagai penghargaan, Royal Ambarrukmo menawarkan suasana layaknya gerbang menuju masa kemegahan kerajaan dengan arsitektur, pesona, serta kharisma yang sesuai dengan keagungannya. Berlokasi di Sleman, hotel ini secara strategis terletak cukup dekat dari Plaza Ambarrukmo serta Museum Affandi, dan sekitar 5 mil menuju Jalan Malioboro. Tempat sempurna untuk Sobat Pesona yang ingin merasakan kemegahan tradisi otentik Kerajaan Jawa yang membaur sepenuhnya dengan modernitas dan kecanggihan abad 21!</item>
+        <item>Cocok untuk liburan keluarga atau perjalanan romantis bersama pasangan, Sheraton Mustika Resort dan Spa merupakan hotel bintang 5 yang berjarak 10 menit berkendara dari dan menuju Bandara Internasional Adi Sucipto. Nikmati berbagai pilihan santapan lezat, kolam renang indoor dan outdoor yang menyegarkan, lapangan tenis yang luas, spa yang menenangkan, gym yang menyenangkan, layanan kamar 24 jam yang memuaskan, hingga akses wifi tanpa biaya. Di sini Sobat Pesona bisa menikmati pengalaman bermalam dengan kenyamanan akomodasi mewah terbaik dan pemandangan Gunung Merapi yang menakjubkan sebagai latar belakangnya.</item>
+        <item>Sobat Pesona seakan dibawa kembali ke masa lalu yang hangat dengan suasana keanggunan klasik khas Jawa apabila memilih menginap di Phoenix Hotel. Hotel butik bersejarah yang megah dan elegan ini merupakan tempat yang ideal bagi para pelancong untuk mencari pengalaman yang berkesan. Hotel ini berjarak 10 menit dari Keraton Sultan dan 15 menit berkendara menuju Pemandian Taman Sari serta Kerajinan Perak Kotagede.</item>
+        <item>Akomodasi bintang 4 ini siap untuk menyambut Sobat Pesona beserta keluarga dan membuat pengalaman berkunjung ke Yogyakarta lebih menyenangkan lagi. The Westlake Resort menawarkan berbagai macam aktivitas, seperti berenang, spa, jogging, bersepeda, dan memancing di danau yang menawan dengan beragam jenis ikan yang menarik. Sobat Pesona akan dimanjakan dengan suasana atraktif yang memadukan keindahan alam dengan seni dan arsitektur tradisional-kolonial khas Jawa. Resort ini adalah hotel dengan suasana alam yang menyegarkan dan bisa membuat pengalaman kunjungan Sobat Pesona ke Yogyakarta luar biasa berkesan.</item>
+        <item>Akses yang mudah menuju kota serta berbagai atraksi wisata, seperti Keraton (Istana Sultan), Jalan Malioboro yang selalu semarak, serta Candi Borobudur dan Candi Prambanan yang menakjubkan, merupakan salah satu kualitas menarik dari hotel butik mewah ini. Dengan pemandangan Gunung Merapi yang memanjakan mata, Lafayette Boutique Hotel memiliki 11 menara bertingkat yang ikonik serta 77 suites mewah dan satu penthouse elegan, lengkap dengan furniturenya, untuk tamu istimewa seperti Sobat Pesona. Lafayette Boutique Hotel merupakan tempat yang ideal untuk pengalaman menginap yang memikat di Yogyakarta.</item>
+        <item>Nikmati budaya Yogyakarta yang semarak dan beragam, dan bermalamlah di Melia Purosani Hotel yang terletak di pusat kota Yogyakarta. Hotel bintang 5 ini menawarkan kenyamanan unggulan dengan layanan yang sepenuhnya dipersonalisasi serta keindahan alam yang menakjubkan. Melia Purosani terletak di pusat kota dekat dengan pusat perbelanjaan Malioboro yang terkenal penuh warna, dan hanya berjarak 1.4KM dari Keraton Sultan serta Pemandian Taman Sari. Nikmati pengalaman menginap yang menyenangkan di sini Sobat Pesona, dan rasakan keramahtamahan yang bersahabat di Melia Purosani.</item>
+        <item>Nikmati budaya Yogyakarta yang semarak dan beragam, dan bermalamlah di Melia Purosani Hotel yang terletak di pusat kota Yogyakarta. Hotel bintang 5 ini menawarkan kenyamanan unggulan dengan layanan yang sepenuhnya dipersonalisasi serta keindahan alam yang menakjubkan. Melia Purosani terletak di pusat kota dekat dengan pusat perbelanjaan Malioboro yang terkenal penuh warna, dan hanya berjarak 1.4KM dari Keraton Sultan serta Pemandian Taman Sari. Nikmati pengalaman menginap yang menyenangkan di sini Sobat Pesona, dan rasakan keramahtamahan yang bersahabat di Melia Purosani.
+</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/hotel_1</item>
+        <item>@drawable/hotel_2</item>
+        <item>@drawable/hotel_3</item>
+        <item>@drawable/hotel_4</item>
+        <item>@drawable/hotel_5</item>
+        <item>@drawable/hotel_6</item>
+        <item>@drawable/hotel_7</item>
+        <item>@drawable/hotel_8</item>
+        <item>@drawable/hotel_9</item>
+        <item>@drawable/hotel_10</item>
+        <item>@drawable/hotel_11</item>
+    </integer-array>
+</resources>
